@@ -42,4 +42,4 @@ The front end is based on the HTML, Bootstrap.
 The back end is based on django.
 
 #### For any issues contact me at:
-shubham__jaswal@hotmail.com
+starkdevml@gmail.com
